@@ -244,8 +244,6 @@ local function openemotes(name, state, input)
 	end
 end
 
-
-
 		-- same
 
 local function openemotes(name, state, input)

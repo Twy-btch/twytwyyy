@@ -481,6 +481,7 @@ AddEmote("Arm Wave", 5915773155)
 AddEmote("Head Banging", 5915779725)
 AddEmote("Face Calisthenics", 9830731012)
 AddEmote("Swim", 80434484854185)
+AddEmote("Head Banger", 81621254772462)
 
 
 --finished loading
@@ -698,7 +699,6 @@ if LocalPlayer.Character then
 	CharacterAdded(LocalPlayer.Character)
 end
 LocalPlayer.CharacterAdded:Connect(CharacterAdded)
-
 
 
 -- Wait before showing the main GUI

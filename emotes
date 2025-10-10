@@ -700,16 +700,6 @@ end
 LocalPlayer.CharacterAdded:Connect(CharacterAdded)
 
 
--- notification
-
-local AkaliNotif = loadstring(game:HttpGet("https://raw.githubusercontent.com/Kinlei/Dynissimo/main/Scripts/AkaliNotif.lua"))();
-local Notify = AkaliNotif.Notify;
-
-Notify({
-Description = "by twytwy<3";
-Title = "TWY TWY <3";
-Duration = 5;
-});
 
 -- Wait before showing the main GUI
 wait(5)

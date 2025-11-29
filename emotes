@@ -445,7 +445,6 @@ end
 -- same
 local customEmotes = {
 
-    {Name = "SpongeBob Imaginaaation 🌈", Id = 18443268949, Price = 0, Index = 23},
     {Name = "HUGO Let's Drive!", Id = 17360720445, Price = 0, Index = 31},
     {Name = "Elton John - Heart Shuffle", Id = 17748346932, Price = 0, Index = 28},
     {Name = "Paris Hilton - Checking My Angles", Id = 15392937495, Price = 0, Index = 76},
@@ -461,7 +460,7 @@ local customEmotes = {
     {Name = "Team USA Breaking Emote", Id = 18526338976, Price = 0, Index = 22},
     {Name = "Floor Rock Freeze - Tommy Hilfiger", Id = 10214411646, Price = 0, Index = 127},
 	{Name = "Alo Yoga Pose - Lotus Position", Id = 12507097350, Price = 0, Index = 121},
-	{Name = "Sturdy Dance - Ice Spice", Id = 134999360422739, Price = 0, Index = 65}
+	{Name = "Sturdy Dance - Ice Spice", Id = 134999360422739, Price = 0, Index = 65},
 }
 
 

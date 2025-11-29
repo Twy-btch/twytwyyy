@@ -461,6 +461,7 @@ local customEmotes = {
     {Name = "Team USA Breaking Emote", Id = 18526338976, Price = 0, Index = 22},
     {Name = "Floor Rock Freeze - Tommy Hilfiger", Id = 10214411646, Price = 0, Index = 127},
 	{Name = "Alo Yoga Pose - Lotus Position", Id = 12507097350, Price = 0, Index = 121},
+	{Name = "Sturdy Dance - Ice Spice", Id = 134999360422739, Price = 0, Index = 65}
 }
 
 
